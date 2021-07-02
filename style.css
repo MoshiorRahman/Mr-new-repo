@@ -4,3 +4,12 @@ p{
 #h1{
     background-color: brown;
 }
+img{
+    height: 200px;
+    width: 200px;
+}
+pre{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
